@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-ws": "^5.0.2",
+    "http-proxy": "^1.18.1",
+    "http-proxy-middleware": "^2.0.6"
+  },
+  "name": "proxy_nodejs",
+  "version": "1.0.0",
+  "description": "Sample Proxy Nodejs",
+  "main": "proxy.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node proxy.js"
+  },
+  "keywords": [
+    "Proxy",
+    "nodejs"
+  ],
+  "author": "Fajarlabs",
+  "license": "ISC"
+}
